@@ -1,0 +1,41 @@
+name,rating,reviews,interviews,jobs,categories,employee_counts,ownership_types,age,locations
+TCS,3.8,67.2k,5.7k,322,IT Services & Consulting,1 Lakh+ Employees,Public,55 years old,Mumbai +302 more
+Accenture,4.0,43k,4k,4.8k,IT Services & Consulting,1 Lakh+ Employees,Public,34 years old,Dublin +155 more
+Cognizant,3.9,38.7k,3.3k,504,IT Services & Consulting,1 Lakh+ Employees,Forbes Global 2000,29 years old,Teaneck. New Jersey. +126 more
+Wipro,3.8,35.7k,3.3k,358,IT Services & Consulting,1 Lakh+ Employees,Public,78 years old,Bangalore/Bengaluru +256 more
+ICICI Bank,4.0,31.1k,1.7k,216,Banking,1 Lakh+ Employees,Public,29 years old,Mumbai +1225 more
+HDFC Bank,3.9,30.8k,1.4k,459,Banking,1 Lakh+ Employees,Public,29 years old,Mumbai +1462 more
+Infosys,3.9,29.4k,4.5k,841,IT Services & Consulting,1 Lakh+ Employees,Public,42 years old,Bengaluru/Bangalore +151 more
+Capgemini,3.8,27.2k,2.3k,512,IT Services & Consulting,1 Lakh+ Employees,Public,56 years old,Paris +101 more
+Tech Mahindra,3.7,25.5k,2.2k,1.1k,IT Services & Consulting,1 Lakh+ Employees,Public,37 years old,Pune +242 more
+HCLTech,3.7,25k,2.3k,671,IT Services & Consulting,1 Lakh+ Employees,Public,32 years old,Noida +162 more
+Genpact,3.9,24.4k,1.8k,688,IT Services & Consulting,1 Lakh+ Employees,Public,26 years old,New York +89 more
+Axis Bank,3.8,20.5k,1k,316,Banking,50k-1 Lakh Employees,Public,30 years old,Mumbai +1246 more
+Concentrix Corporation,3.9,20.2k,1k,127,BPO,50k-1 Lakh Employees,Public,40 years old,Fremont +97 more
+Amazon,4.2,19.4k,3.2k,691,Internet,1 Lakh+ Employees,Public,29 years old,Seattle +411 more
+Reliance Jio,3.9,18.7k,1.1k,187,Telecom,50k-1 Lakh Employees,Public,16 years old,Navi Mumbai +1113 more
+IBM,4.1,18.7k,1.4k,1.5k,Software Product,50k-1 Lakh Employees,Public,112 years old,Armonk +137 more
+Larsen & Toubro Limited,4.0,17.4k,976,212,Engineering & Construction,10k-50k Employees,Public,85 years old,Mumbai +601 more
+Reliance Retail,3.9,16.9k,1.1k,270,Retail,1 Lakh+ Employees,NaN,17 years old,Navi Mumbai +934 more
+HDB Financial Services,4.0,16.4k,532,116,NBFC,1 Lakh+ Employees,NaN,16 years old,Ahmedabad +910 more
+Teleperformance,3.6,16k,1.1k,279,BPO,50k-1 Lakh Employees,Forbes Global 2000,45 years old,Paris +140 more
+TCS,3.8,67.2k,5.7k,322,IT Services & Consulting,1 Lakh+ Employees,Public,55 years old,Mumbai +302 more
+Accenture,4.0,43k,4k,4.8k,IT Services & Consulting,1 Lakh+ Employees,Public,34 years old,Dublin +155 more
+Cognizant,3.9,38.7k,3.3k,504,IT Services & Consulting,1 Lakh+ Employees,Forbes Global 2000,29 years old,Teaneck. New Jersey. +126 more
+Wipro,3.8,35.7k,3.3k,358,IT Services & Consulting,1 Lakh+ Employees,Public,78 years old,Bangalore/Bengaluru +256 more
+ICICI Bank,4.0,31.1k,1.7k,216,Banking,1 Lakh+ Employees,Public,29 years old,Mumbai +1225 more
+HDFC Bank,3.9,30.8k,1.4k,459,Banking,1 Lakh+ Employees,Public,29 years old,Mumbai +1462 more
+Infosys,3.9,29.4k,4.5k,841,IT Services & Consulting,1 Lakh+ Employees,Public,42 years old,Bengaluru/Bangalore +151 more
+Capgemini,3.8,27.2k,2.3k,512,IT Services & Consulting,1 Lakh+ Employees,Public,56 years old,Paris +101 more
+Tech Mahindra,3.7,25.5k,2.2k,1.1k,IT Services & Consulting,1 Lakh+ Employees,Public,37 years old,Pune +242 more
+HCLTech,3.7,25k,2.3k,671,IT Services & Consulting,1 Lakh+ Employees,Public,32 years old,Noida +162 more
+Genpact,3.9,24.4k,1.8k,688,IT Services & Consulting,1 Lakh+ Employees,Public,26 years old,New York +89 more
+Axis Bank,3.8,20.5k,1k,316,Banking,50k-1 Lakh Employees,Public,30 years old,Mumbai +1246 more
+Concentrix Corporation,3.9,20.2k,1k,127,BPO,50k-1 Lakh Employees,Public,40 years old,Fremont +97 more
+Amazon,4.2,19.4k,3.2k,691,Internet,1 Lakh+ Employees,Public,29 years old,Seattle +411 more
+Reliance Jio,3.9,18.7k,1.1k,187,Telecom,50k-1 Lakh Employees,Public,16 years old,Navi Mumbai +1113 more
+IBM,4.1,18.7k,1.4k,1.5k,Software Product,50k-1 Lakh Employees,Public,112 years old,Armonk +137 more
+Larsen & Toubro Limited,4.0,17.4k,976,212,Engineering & Construction,10k-50k Employees,Public,85 years old,Mumbai +601 more
+Reliance Retail,3.9,16.9k,1.1k,270,Retail,1 Lakh+ Employees,NaN,17 years old,Navi Mumbai +934 more
+HDB Financial Services,4.0,16.4k,532,116,NBFC,1 Lakh+ Employees,NaN,16 years old,Ahmedabad +910 more
+Teleperformance,3.6,16k,1.1k,279,BPO,50k-1 Lakh Employees,Forbes Global 2000,45 years old,Paris +140 more
